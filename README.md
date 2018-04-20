@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Dessert Bar Template 
 
-You can use the [editor on GitHub](https://github.com/celacomtech/southernPudding/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Responsive website for ordering pudding.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ ![Image](https://d2zav2bjdlctd5.cloudfront.net/uploads/2017/01/cofee-pizza.jpg)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Built With
 
-```markdown
-Syntax highlighted code block
+* [Bootstrap](https://getbootstrap.com/) - Get started with Bootstrap
+* [Coffee pizza](http://freemiumdownload.com/demo?theme=bootstrap-coffee-pizza) - Coffee pizza is a clean and bright Bootstrap based free restaurant template. It includes great showcasing menus, interior, food and reservation. It is fully responsive and stylish too
 
-# Header 1
-## Header 2
-### Header 3
+## Features
+HTML5/CSS3
+Fully Responsive
+Compatible with major Browsers
+Includes various menus
 
-- Bulleted
-- List
+## Authors
 
-1. Numbered
-2. List
+* **Maurice Jordan** - *Initial work* - [TheSmashCoder](https://github.com/thesmashcoder)
 
-**Bold** and _Italic_ and `Code` text
+## License
 
-[Link](url) and ![Image](src)
-```
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Acknowledgments
 
-### Jekyll Themes
+* [Theme Wagon](https://themewagon.com/)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/celacomtech/southernPudding/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
