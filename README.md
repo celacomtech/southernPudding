@@ -11,10 +11,10 @@ Responsive website for ordering pudding.
 * [Coffee pizza](http://freemiumdownload.com/demo?theme=bootstrap-coffee-pizza) - Coffee pizza is a clean and bright Bootstrap based free restaurant template. It includes great showcasing menus, interior, food and reservation. It is fully responsive and stylish too
 
 ## Features
-HTML5/CSS3
-Fully Responsive
-Compatible with major Browsers
-Includes various menus
+* HTML5/CSS3
+* Fully Responsive
+* Compatible with major Browsers
+* Includes various menus
 
 ## Authors
 
